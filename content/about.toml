@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Computational Social Science",
+  "Digital Governance",
+  "Urban and Rural Development"
 ]
 
 [[sections]]
@@ -13,13 +13,6 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
-
-[[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 5
 
 [[sections]]
 id = "news"

@@ -1,9 +1,27 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "学术与社会服务"
+description = "部分同行评审、公共政策与社会志愿服务经历。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "期刊审稿人"
+subtitle = "Frontiers in Sustainable Food Systems"
+date = "持续进行"
+content = "担任Frontiers in Sustainable Food Systems期刊审稿人，参与稿件同行评审工作。"
+
+[[items]]
+title = "政策咨询报告撰写"
+subtitle = "西北农林科技大学"
+date = "2025"
+content = "参与撰写网络“认证医生”医学科普乱象治理政策咨询报告，围绕身份造假、内容失真和违规商业推广等问题提出治理建议。相关成果被陕西省人民政府采纳，采用编号为“西农信息（2025）第130号”。"
+
+[[items]]
+title = "2023杨凌农科城马拉松志愿者"
+subtitle = "杨凌农业高新技术产业示范区"
+date = "2023"
+content = "参与2023杨凌农科城马拉松志愿服务，为赛事组织和现场运行提供支持。"
+
+[[items]]
+title = "大学生核科普志愿宣讲活动志愿者"
+subtitle = "中国核工业集团有限公司"
+date = "2022"
+content = "参与“强国有我，核你一起”大学生志愿宣讲活动，完成志愿宣讲任务并参与核科普传播。"

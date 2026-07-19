@@ -1,27 +1,45 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Awards and Academic Recognition"
+description = "Selected academic, research, and public-service honors."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Selected Participant, 9th Tsinghua University Young Scholars Forum on Public Administration"
+subtitle = "Tsinghua University"
+date = "2026"
+content = "Selected for the 9th Tsinghua University Young Scholars Forum on Public Administration."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Good Completion, National Undergraduate Innovation Training Program"
+subtitle = "Northwest A&F University"
 date = "2024"
-content = "Description of the award."
+content = "Served as team leader of a national-level research project on public policy, enterprise willingness, villager participation, and rural cultural-industry development."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First Prize, 5th National College Students’ Urban Management Competition"
+subtitle = "3rd Smart Governance Public Case Analysis Competition"
 date = "2023"
-content = "Description of the award."
+content = "Core team member of the project Empowering Governance through Digitalization: A Case Study of Ningwei Governance Practice."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Selected Paper, China Urban Management Development Annual Conference"
+subtitle = "China Regional Science Association"
+date = "2023"
+content = "The research on digitally enabled grassroots governance in Ningwei was selected for presentation and academic exchange at the annual conference."
+
+[[items]]
+title = "First Prize, Summer Social Practice Research Report"
+subtitle = "Northwest A&F University"
+date = "2023"
+content = "Received first prize for a research report evaluating land-transfer policies and pathways toward sustainable increases in farmers’ incomes in the Yangling Demonstration Area."
+
+[[items]]
+title = "Excellent Completion, National Undergraduate Innovation Training Program"
+subtitle = "Northwest A&F University"
+date = "2023"
+content = "Served as a core team member of a national-level project examining government policy, farmer cognition, and participation in e-commerce benefit-sharing mechanisms."
+
+[[items]]
+title = "100 Campus Stars - Star of Morality"
+subtitle = "Northwest A&F University"
+date = "2023"
+content = "Recognized as an Advanced Individual in the university’s 100 Campus Stars program."

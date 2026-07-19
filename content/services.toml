@@ -1,9 +1,27 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Academic and Public Services"
+description = "Selected academic, policy, and community-service activities."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Peer Reviewer"
+subtitle = "Frontiers in Sustainable Food Systems"
+date = "Ongoing"
+content = "Serve as a peer reviewer for manuscripts submitted to Frontiers in Sustainable Food Systems."
+
+[[items]]
+title = "Contributor to a Policy Consultation Report"
+subtitle = "Northwest A&F University"
+date = "2025"
+content = "Contributed to a policy consultation report addressing misconduct in online medical science communication. The report was adopted by the People’s Government of Shaanxi Province as Northwest A&F University Information, No. 130 (2025)."
+
+[[items]]
+title = "Volunteer, 2023 Yangling Marathon"
+subtitle = "Yangling Agricultural Hi-tech Industries Demonstration Zone"
+date = "2023"
+content = "Provided volunteer services in support of event organization and on-site operations during the 2023 Yangling Marathon."
+
+[[items]]
+title = "Volunteer, University Nuclear-Science Outreach Program"
+subtitle = "China National Nuclear Corporation"
+date = "2022"
+content = "Participated in the university volunteer outreach program Building a Strong Nation with Nuclear Power and contributed to public science communication."

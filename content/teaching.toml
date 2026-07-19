@@ -1,10 +1,9 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Teaching and mentoring materials will be added soon."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Coming Soon"
+subtitle = "Teaching and Mentoring"
+date = "To be updated"
+content = "This page is currently under preparation. Teaching, mentoring, and course-related materials will be posted here in the future."
