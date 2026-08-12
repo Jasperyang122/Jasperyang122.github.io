@@ -1,9 +1,0 @@
-type = "card"
-title = "教学"
-description = "教学与指导相关内容将陆续上线。"
-
-[[items]]
-title = "待上线"
-subtitle = "教学与指导"
-date = "持续更新"
-content = "本页面正在整理中，后续将更新课程、助教、学生指导及相关教学材料。"

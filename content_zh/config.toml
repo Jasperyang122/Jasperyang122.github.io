@@ -1,7 +1,7 @@
 [site]
 title = "杨杰伦"
 description = "哈尔滨工业大学博士生。"
-last_updated = "2026年7月19日"
+last_updated = "2026年8月12日"
 
 [author]
 name = "杨杰伦"
@@ -28,10 +28,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "随笔"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "notes"
+href = "/notes"
 
 [[navigation]]
 title = "奖项"

@@ -1,0 +1,9 @@
+type = "card"
+title = "Notes"
+description = "Occasional notes on research, technology, society, and everyday observations."
+
+[[items]]
+title = "Coming Soon"
+subtitle = "Notes"
+date = "To be updated"
+content = "This page is being prepared. New notes will be published here from time to time."

@@ -1,0 +1,9 @@
+type = "card"
+title = "随笔"
+description = "不定期记录一些关于研究、技术、社会与日常生活的思考。"
+
+[[items]]
+title = "待上线"
+subtitle = "随笔"
+date = "持续更新"
+content = "本页面正在整理中，之后会不定期更新一些随笔。"
