@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-size="80">💪</text>
-</svg> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <image
+    width="64"
+    height="64"
+    image-rendering="pixelated"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAIVBMVEX4+PjY2NjoYEh4eHjIOCDAgLBYMFgQEBBoWGCYaIAAAADDfv1YAAAAC3RSTlP/////////////AEpPAfIAAAJJSURBVFjD7ZfLspwwDESNB3Xr+P8/OAvMyzCQVFJZXa8oxn2QLLntKe0vR/kB/AD+ByAvL/IBkNfp4UE+vDgDHEdEttZ0mp8ZwTMgQj58XIGb3JrUfx71wxoodoTCisAKN0GzIoIXgNkmKQIHKMICHBHBO4CIIG0RGDARBn3Tj2UURJCZAgMIwgiIgMw3gAHIFIh1bE83+ksj9clBcBmZaUnPALNEe0PIntlLK6MHvYH2Coi4I+QSgP0GUEQn3ASQwLAIXwDcLqEyc6zEtQpHfQBo1jENv1ZBuz4CPNdDS1wQYyMJZIBcAPJcDwCkxxQsQHUWuQDkudZ6WouHFGwSyFrtBeDZtdb52NcMlSyXLoasdTaA51prTfrG2tLwLSD72hmQ1DNeHjzpVFDfAFZ9X8Nz2tOkpYjbproCBJACFescsLUBMtemHgHZ/QJQ+cjbkKZJ06SuX4cHQNevgPIppZQyaVrUewDb0BCBvAHQCiifUsoRIHsMoRyraDdfAJ8yaQ9A7owroNmrI+kMKGIDuLVmp+1HT9QRMB30/cvWdz/ovixNa/i57eRUJi+m2rY2SkldvSeQmYMlXVPwvRstTeTM5BREuRqS816/dPXoKKOhRESIvP38SnhwpH6EJsk5+U2P/OhI3VAXwqlz9831dj8AUoMe7SE8u/K2301EVwfynsWLrXtL23Y/o7zvoN85F9Z5rbXuCK01aQe83FD68XW5SfhLAJdF7LZwvYlYt/rxmrdHfRkCo7GKf3LZ1i385w/HD+CfAH4BcpSQFV1gZ9QAAAAASUVORK5CYII="
+  />
+</svg>
