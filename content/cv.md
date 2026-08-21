@@ -9,13 +9,13 @@
 **M.A. in Global Studies (Comparative Area Studies), 09/2025 – 06/2026**
 
 ### Northwest A&F University  
-**B.M. in Public Affairs Administration, 09/2021 – 06/2025**
+**B.Mgt. in Social Affairs Administration, 09/2021 – 06/2025**
 
 ## Publications and Manuscripts
 
 ### Published
 
-- Yupan Zhao, Xiaofeng Zhao, and **Jielun Yang**.
+- Yupan Zhao\*, Xiaofeng Zhao, and **Jielun Yang**.
   “Coupling Coordination and Influencing Factors Between Digital Village Development and Agricultural and Rural Modernization: Evidence from China.”
   *Agriculture*, 14(11), 1901, 2024.
   [DOI](https://doi.org/10.3390/agriculture14111901)

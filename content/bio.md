@@ -1,6 +1,6 @@
 I am a Ph.D. student in Management Science and Engineering at the School of Management, Harbin Institute of Technology, under the supervision of [Prof. Yupan Zhao](https://homepage.hit.edu.cn/zhaoyupan).
 
-Before beginning my doctoral studies, I received an M.A. in Global Studies from The Chinese University of Hong Kong, Shenzhen, and a B.M. in Public Affairs Administration from Northwest A&F University.
+Before beginning my doctoral studies, I received an M.A. in Global Studies from The Chinese University of Hong Kong, Shenzhen, and a B.Mgt. in Social Affairs Administration from Northwest A&F University.
 
 ## Questions I Care About
 
