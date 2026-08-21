@@ -8,14 +8,8 @@
 ### The Chinese University of Hong Kong, Shenzhen  
 **M.A. in Global Studies (Comparative Area Studies), 09/2025 – 06/2026**
 
-- GPA: 3.28/4.00
-- Selected coursework: Social Science Research Methods, Comparative Politics, Comparative Public Opinion, Political Institutions, and Global Studies Theory
-
 ### Northwest A&F University  
 **B.M. in Public Affairs Administration, 09/2021 – 06/2025**
-
-- GPA: 3.40/4.00
-- Selected coursework: Public Administration, Public Economics, Applied Statistics, Python Programming, and Urban Management
 
 ## Publications and Manuscripts
 
@@ -26,14 +20,25 @@
   *Agriculture*, 14(11), 1901, 2024.
   [DOI](https://doi.org/10.3390/agriculture14111901)
 
-### Manuscripts Under Submission
+### Under Review
 
-- **Jielun Yang**, Yupan Zhao, and Xin Chen.
-  “From Digital Rural Development to the Modernization of Agriculture and Rural Areas: Provincial Evidence from China.”
-  Manuscript submitted to *Habitat International*.
-- **Jielun Yang**, Yaxin Zhao, Qihong Yang, Yupan Zhao, and Ning Zhang.
-  “Marriage Costs and County Settlement Quality in Rural China: Bride Price, County Housing, and Work–Residence Anchoring.”
-  Manuscript submitted to *Chinese Sociological Review*.
+- **Jielun Yang**, Yupan Zhao\*, and Xin Chen.
+  “Digital Rural Development and Agricultural and Rural Modernization: Causal Evidence from China Using Interpretable Double Machine Learning.”
+  Under review at *Systems*.
+- **Jielun Yang**, Yaxin Zhao\*, and Qihong Yang.
+  “Marriage Costs Drive Coerced Homeownership but Prevent Urban Settlement: Evidence from Rural China.”
+  Under review at *Cities*.
+
+### Work in Progress
+
+- **Jielun Yang**, Yupan Zhao\*, and Chunpeng Wang.
+  “Policy Mixes in Time: Simulating Collective Action under Alternative Instrument Sequence.”
+  Work in progress.
+- Xin Chen, **Jielun Yang**, Yupan Zhao\*, and Ning Zhang.
+  “From Promises to Outcomes: Urban–Rural Selective Conversion of Local Governments’ Digital Policy Attention.”
+  Work in progress.
+
+\* Corresponding author.
 
 ## Research Experience (Selected)
 
