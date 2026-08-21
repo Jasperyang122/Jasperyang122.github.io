@@ -2,7 +2,7 @@
 title = "Jielun (Jasper) Yang"
 description = "PhD student at Harbin Institute of Technology"
 favicon = "/favicon.svg"
-last_updated = "August 12, 2026"
+last_updated = "August 21, 2026"
 
 [author]
 name = "Jielun (Jasper) Yang"
@@ -33,19 +33,18 @@ enable_likes = true
 enable_one_page_mode = false
 
 [i18n]
-enabled = true
-locales = ["zh", "en"]
+enabled = false
+locales = ["en"]
 default_locale = "en"
 # "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
-mode = "auto"
+mode = "fixed"
 fixed_locale = "en"
 # If true, PRISM will remember user's language preference in browser's localStorage
-persist = true
+persist = false
 # Show a language switcher on the top right corner
-switcher = true
+switcher = false
 
 [i18n.labels]
-zh = "中文"
 en = "English"
 
 [[navigation]]
