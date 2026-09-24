@@ -1,12 +1,12 @@
 [site]
 title = "Jielun (Jasper) Yang"
-description = "PhD student at Harbin Institute of Technology"
+description = "Ph.D. student at Harbin Institute of Technology"
 favicon = "/favicon.svg"
-last_updated = "August 21, 2026"
+last_updated = "September 24, 2026"
 
 [author]
 name = "Jielun (Jasper) Yang"
-title = "PhD Student"
+title = "Ph.D. Student"
 institution = "Harbin Institute of Technology"
 avatar = "/bio.jpg"
 

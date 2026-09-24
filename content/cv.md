@@ -4,6 +4,7 @@
 **Ph.D. Student in Management Science and Engineering, 08/2026 – Present**
 
 - Supervisor: [Prof. Yupan Zhao](https://homepage.hit.edu.cn/zhaoyupan)
+- Planned research visit (joint doctoral training): [University of Barcelona](https://web.ub.edu/en/) (expected 09/2027), hosted by [Prof. Germà Bel](https://www.ub.edu/school-economics/researcher/bel-germa/)
 
 ### The Chinese University of Hong Kong, Shenzhen  
 **M.A. in Global Studies (Comparative Area Studies), 09/2025 – 06/2026**
