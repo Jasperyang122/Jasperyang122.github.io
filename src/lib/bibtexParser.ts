@@ -164,7 +164,10 @@ function buildNameVariants(name: string): Set<string> {
 
   variants.add(cleaned);
 
-  const parts = cleaned.split(/\s+/).filter(Boolean);
+  const withoutNickname = cleaned.replace(/\([^)]*\)/g, '').replace(/\s+/g, ' ').trim();
+  variants.add(withoutNickname);
+
+  const parts = withoutNickname.split(/\s+/).filter(Boolean);
   if (parts.length === 2) {
     variants.add(`${parts[1]} ${parts[0]}`);
   }

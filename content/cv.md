@@ -20,12 +20,13 @@
   “Coupling Coordination and Influencing Factors Between Digital Village Development and Agricultural and Rural Modernization: Evidence from China.”
   *Agriculture*, 14(11), 1901, 2024.
   [DOI](https://doi.org/10.3390/agriculture14111901)
+- Yupan Zhao, **Jielun Yang**\*, Xin Chen, and Ning Zhang.
+  “From Digital Rural Development to the Modernization of Agriculture and Rural Areas: Provincial Evidence from China.”
+  *Systems*, 14(10), 1235, 2026.
+  [DOI](https://doi.org/10.3390/systems14101235)
 
 ### Under Review
 
-- **Jielun Yang**, Yupan Zhao\*, and Xin Chen.
-  “Digital Rural Development and Agricultural and Rural Modernization: Causal Evidence from China Using Interpretable Double Machine Learning.”
-  Under review at *Systems*.
 - **Jielun Yang**, Yaxin Zhao\*, and Qihong Yang.
   “Marriage Costs Drive Coerced Homeownership but Prevent Urban Settlement: Evidence from Rural China.”
   Under review at *Cities*.
