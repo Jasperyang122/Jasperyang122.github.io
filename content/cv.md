@@ -4,7 +4,7 @@
 **Ph.D. Student in Management Science and Engineering, 08/2026 – Present**
 
 - Supervisor: [Prof. Yupan Zhao](https://homepage.hit.edu.cn/zhaoyupan)
-- Planned research visit (joint doctoral training): [University of Barcelona](https://web.ub.edu/en/) (expected 09/2027), hosted by [Prof. Germà Bel](https://www.ub.edu/school-economics/researcher/bel-germa/)
+- **Joint doctoral training:** [University of Barcelona](https://web.ub.edu/en/) (expected 09/2027), hosted by [Prof. Germà Bel](https://www.ub.edu/school-economics/researcher/bel-germa/)
 
 ### The Chinese University of Hong Kong, Shenzhen  
 **M.A. in Global Studies (Comparative Area Studies), 09/2025 – 06/2026**
@@ -16,14 +16,14 @@
 
 ### Published
 
-- Yupan Zhao\*, Xiaofeng Zhao, and **Jielun Yang**.
-  “Coupling Coordination and Influencing Factors Between Digital Village Development and Agricultural and Rural Modernization: Evidence from China.”
-  *Agriculture*, 14(11), 1901, 2024.
-  [DOI](https://doi.org/10.3390/agriculture14111901)
 - Yupan Zhao, **Jielun Yang**\*, Xin Chen, and Ning Zhang.
   “From Digital Rural Development to the Modernization of Agriculture and Rural Areas: Provincial Evidence from China.”
   *Systems*, 14(10), 1235, 2026.
   [DOI](https://doi.org/10.3390/systems14101235)
+- Yupan Zhao\*, Xiaofeng Zhao, and **Jielun Yang**.
+  “Coupling Coordination and Influencing Factors Between Digital Village Development and Agricultural and Rural Modernization: Evidence from China.”
+  *Agriculture*, 14(11), 1901, 2024.
+  [DOI](https://doi.org/10.3390/agriculture14111901)
 
 ### Under Review
 
