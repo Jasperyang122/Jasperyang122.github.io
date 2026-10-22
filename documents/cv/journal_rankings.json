@@ -1,0 +1,33 @@
+{
+  "verified_on": "2026-10-22",
+  "scope": "Current indexing and JCR quartiles for published papers only; not a claim about the quality of individual papers or an ABS rating.",
+  "journals": {
+    "Systems": {
+      "issn": "2079-8954",
+      "index": "SSCI",
+      "quartile_system": "Journal Citation Reports",
+      "quartile": "Q1",
+      "category": "Social Sciences, Interdisciplinary",
+      "sources": [
+        "https://www.mdpi.com/journal/systems",
+        "https://www.mdpi.com/journal/systems?trk=public_post_reshare-text"
+      ]
+    },
+    "Agriculture": {
+      "issn": "2077-0472",
+      "index": "SCIE",
+      "quartile_system": "Journal Citation Reports",
+      "quartile": "Q1",
+      "category": "Agronomy",
+      "sources": [
+        "https://www.mdpi.com/journal/agriculture/indexing",
+        "https://www.mdpi.com/about/announcements/17202",
+        "https://mdpi-res.com/d_attachment/journals/95/flyer.pdf"
+      ]
+    }
+  },
+  "abs_ajg": {
+    "official_source": "https://charteredabs.org/academic-journal-guide/academic-journal-guide-2024",
+    "status": "No rating verified for either journal. Official list returned HTTP 403; journal-title and ISSN searches did not provide a confirmable rating. Omitted from CV, without claiming that no rating exists."
+  }
+}
