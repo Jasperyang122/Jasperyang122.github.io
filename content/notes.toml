@@ -3,7 +3,14 @@ title = "Notes"
 description = "Occasional notes on research, technology, society, and everyday observations."
 
 [[items]]
-title = "Coming Soon"
-subtitle = "Notes"
-date = "To be updated"
-content = "This page is being prepared. New notes will be published here from time to time."
+title = "从《乡土中国》想到的"
+date = "2026-10-23"
+content = '''
+最近才开始看《乡土中国》。读到费孝通谈“文盲”，谈乡下人和城里人各自不熟悉对方的生活，我想到：农村人在城里人眼中是一种“文盲”，城里人到了农村，又何尝不是另一种“文盲”呢？
+
+我们自认为文字是一种更高级的表达方式，但是声音、气味、眼神，甚至一阵脚步声，其实都能传达许多东西。在彼此熟悉的人之间，这些表达有时反而更直接，也更贴近当时的情意。
+
+近八十年前，他就已经在设想，传播技术的发展会怎样改变文字的地位。但在当下，我们似乎越发注重语言表述的精确性。我感觉，这和城市化过程中，人与人之间的关系变得更加克制有关。
+
+不过，最近公共管理领域出现了一些从神经科学角度开展研究的学者。除了传统的问卷和情景研究，也有人关注声音、眼动甚至脑电，尝试用更先进的方法，去做更微观、更细巧的研究。但我想，这些研究是不是也在尝试理解，那些没有被我们说出来、写下来的东西？想到这里，我又想起费先生笔下那些更“土”、也更直接的会意方式。
+'''
